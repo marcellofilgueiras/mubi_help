@@ -9,5 +9,5 @@ A cliente lia ".xls" na mão, ctrl c + ctrl v. Nas tabelas sinteéticos, haviam 
 Com o número muito grande de arquivos, desenvolvi o codigo parar ler e faxinar em uma tabela automática ao invés do filtro ser feito manualmente com ctrl+c ctrl+v.
 
 
-Os dados são sensíveis, por isso não upei as tabelas "data_raw" nem "exports" neste repositóro, apenas os códigos utilizados.
+Os dados são sensíveis, por isso não upei as tabelas "data_raw" nem "exports" neste repositório, apenas os códigos utilizados.
 Faxinas maiores e análises não foram feitas por opção da cliente que já tinha suas fórmulas prontas no Excel.
